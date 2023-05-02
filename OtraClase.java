@@ -13,4 +13,7 @@ public class OtraClase {
     public void setPiensa(boolean piensa) {
         this.piensa = piensa;
     }
+
+    String nombre;
+
 }
