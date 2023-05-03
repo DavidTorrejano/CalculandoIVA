@@ -1,7 +1,7 @@
 public class Opening {
 
     private String pais;
-    private int ciudades;
+    private int ciudadesG;
 
     public String getPais() {
         return pais;
@@ -11,11 +11,11 @@ public class Opening {
         this.pais = pais;
     }
 
-    public int getCiudades() {
-        return ciudades;
+    public int getCiudadesG() {
+        return ciudadesG;
     }
 
-    public void setCiudades(int ciudades) {
-        this.ciudades = ciudades;
+    public void setCiudadesG(int ciudadesG) {
+        this.ciudadesG = ciudadesG;
     }
 }
