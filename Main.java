@@ -15,7 +15,7 @@ public class Main {
 
     static double calcularIVA(double v){
 
-        System.out.println("Precio: " + v);
+        System.out.println("Precio producto: " + v);
         System.out.println("IVA: " + (v * 0.19));
 
         System.out.print("\nPrecio + IVA: ");
